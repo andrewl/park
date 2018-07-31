@@ -1,0 +1,64 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Hind', sans-serif;
+  text-align: center;
+  color: darkgreen;
+}
+
+h1, h2 {
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+div#help {
+  text-align: center;
+}
+
+div#help h3 {
+  color: white;
+  background: darkgreen;
+  padding: 5px;
+  margin-top: 45px;
+}
+
+div#help div {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+div#main-carousel {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.carousel-item img {
+  height: 375px;
+}
+
+.btn-secondary {
+  background: white;
+  color: darkgreen;
+}
+
+.in-numbers {
+    text-align: center;
+    vertical-align: middle;
+}
+.circle {
+		font-size: 3em;
+    background: darkgreen; 
+    border-radius: 180px;
+    color: white;
+    height: 180px;
+    font-weight: bold;
+    width: 180px;
+    display: table;
+    margin: 20px auto;
+}
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
+}
