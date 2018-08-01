@@ -36,6 +36,7 @@ div#main-carousel {
 
 .carousel-item img {
   height: 375px;
+  width: 630px;
 }
 
 .btn-secondary {
